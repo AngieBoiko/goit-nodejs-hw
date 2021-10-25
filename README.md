@@ -1,4 +1,4 @@
-# go-it-nodejs-hw1
+# go-it-nodejs-hw-01
 
 1.# Получаем и выводим весь список контактов в виде таблицы (console.table)
 https://monosnap.com/file/kNBeR4vE1vcxJ49ovngFq4CZntMvhe
